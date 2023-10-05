@@ -1,2 +1,2 @@
 # DEMO
-A demo file for git tutorial.
+A demo file for git tutorial!
